@@ -1,0 +1,16 @@
+{
+    "name": "GenBit",
+    "symbol": "GBT",
+    "description": "An eco-friendly, futuristic cryptocurrency.",
+    "seller_fee_basis_points": 0,
+    "attributes": [],
+    "properties": {
+      "creators": [
+        {
+          "address": "8eeLGfJaKyZd1Kr9nrx4EG9TzakTpqXLGB4SJuVVrj6N",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
