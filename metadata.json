@@ -1,16 +1,21 @@
 {
-  "name": "GenBit",
-  "symbol": "GBT",
-  "description": "An eco-friendly, futuristic cryptocurrency.",
-  "image": "https://raw.githubusercontent.com/Sd8698621/GenBit/refs/heads/main/image.png",
-  "seller_fee_basis_points": 0,
-  "attributes": [],
-  "properties": {
+    "name": "GenBit",
+    "symbol": "GBT",
+    "description": "An eco-friendly, futuristic cryptocurrency.",
+    "seller_fee_basis_points": 0,
+    "image": "https://raw.githubusercontent.com/Sd8698621/GenBit/refs/heads/main/image.png",
     "creators": [
-      {
-        "address": "8eeLGfJaKyZd1Kr9nrx4EG9TzakTpqXLGB4SJuVVrj6N",
-        "share": 100
-      }
-    ]
-  }
+        {
+            "address": "8eeLGfJaKyZd1Kr9nrx4EG9TzakTpqXLGB4SJuVVrj6N",
+            "share": 100
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Sd8698621/GenBit/refs/heads/main/image.png",
+                "type": "image/png"
+            }
+        ]
+    }
 }
